@@ -1,0 +1,30 @@
+Yaesu FTM-400XDR Programming Tutorial For You
+https://www.youtube.com/watch?v=YyP-gsR2M4c
+
+Summary: how to program a repeater frequency and a simplex frequency.
+
+Program a repeater frequency:
+
+	- Set on A band (top button)
+	- V/M > switch to VFO
+	- Set frequency
+	- To adjust:
+		- Repeater Shift: Press/hold Display > Configure > item 5 > push top right button > "-"
+		- Repeater Shift Frequency: " > item 6 > 0.60 MHz (goes between 0-99.95 MHz) > back out
+		- Tone Squelch Frequency : Signaling > item 1 > push top right botton > choose 103.5 MHz > back out > back out
+		- Tone: Function > Press F > SQL/noise > press until you get to "T-TX" > Press F to get out
+	- Save to a memory:
+		- Press/hold F > choose a line to enter to > press/hold right of line to enter up to 8 char/dig tag > ENT > Press F to store
+
+Store a simplex frequency:
+	- V/M > switch to VFO
+	- Select frequency
+	- Turn off tone on transmit > Press F > scroll to "grey" > Press F to get out
+	- Press/hold F button > choose a line > press/hold right of line to enter "tag" (up to 8 dig/char) > ENT > Press F to store
+		- It will ask if you want to overwrite...pay attention!
+
+NOTES:
+- To delete, press/hold VM button for a couple seconds then turn "A" dial to select the entry then touch DEL then OK.
+- To program B band, press/hold VFO (can use software too!)
+- 16gb Class 4 card recommended
+-
